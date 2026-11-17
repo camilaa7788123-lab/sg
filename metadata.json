@@ -1,0 +1,8 @@
+{
+  "name": "SG",
+  "description": "Plataforma de juegos arcade, estrategia y puzles donde cada jugador disfruta su propia colección y supera sus récords.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
